@@ -10,7 +10,6 @@ The system enables users to view parking availability, reserve parking slots, re
 
 ## 🖼️ Project Banner
 
-> Add your best dashboard screenshot below.
 
 <img width="1000" height="608" alt="image" src="https://github.com/user-attachments/assets/8a7b2e0e-e420-4de7-8a71-9f035cd92c4e" />
 
@@ -76,7 +75,6 @@ This project addresses the issue by providing a smart parking solution that allo
 
 ## ⚙️ System Architecture
 
-> Add your architecture diagram screenshot below.
 
 <img width="502" height="718" alt="image" src="https://github.com/user-attachments/assets/488939f5-1656-47ae-b61e-5e132d726373" />
 
