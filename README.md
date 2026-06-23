@@ -12,7 +12,8 @@ The system enables users to view parking availability, reserve parking slots, re
 
 > Add your best dashboard screenshot below.
 
-![Smart Parking Dashboard](assets/dashboard.png)
+<img width="1000" height="608" alt="image" src="https://github.com/user-attachments/assets/8a7b2e0e-e420-4de7-8a71-9f035cd92c4e" />
+
 
 ---
 
@@ -77,7 +78,7 @@ This project addresses the issue by providing a smart parking solution that allo
 
 > Add your architecture diagram screenshot below.
 
-![System Architecture](assets/architecture.png)
+<img width="502" height="718" alt="image" src="https://github.com/user-attachments/assets/488939f5-1656-47ae-b61e-5e132d726373" />
 
 ---
 
@@ -95,29 +96,25 @@ This project addresses the issue by providing a smart parking solution that allo
 
 ## 📸 Project Screenshots
 
-### Dashboard
-
-![Dashboard](assets/dashboard.png)
-
 ### Parking Slot Monitoring
 
-![Parking Slots](assets/parking-slots.png)
+<img width="821" height="481" alt="image" src="https://github.com/user-attachments/assets/08c3e3e2-0005-43c1-b76f-4eb9fd54802b" />
+
 
 ### Booking Module
 
-![Booking Module](assets/booking.png)
+<img width="843" height="607" alt="image" src="https://github.com/user-attachments/assets/c07f51e7-4a10-4a43-a702-c3266093a629" />
+
 
 ### QR Ticket Generation
 
-![QR Ticket](assets/qr-ticket.png)
+<img width="650" height="584" alt="image" src="https://github.com/user-attachments/assets/68d2cab3-b46c-47f1-b9a0-4c392a87cc52" />
 
-### Firebase Realtime Database
-
-![Firebase Database](assets/firebase.png)
 
 ### Vehicle Monitoring
 
-![Vehicle Monitoring](assets/monitoring.png)
+<img width="682" height="677" alt="image" src="https://github.com/user-attachments/assets/bcddff26-bdcc-41b2-9c8e-9bee2df212d1" />
+
 
 ---
 
@@ -174,9 +171,9 @@ The Smart Parking System helps reduce traffic congestion, minimizes the time spe
 
 ### Mansi Patil
 
-**GitHub:** Mansi04-cloud
+**GitHub Repository Link:** https://github.com/Mansi04-cloud/Smart-Parking-System-For-Smart-Cities
 
-**Project:** Smart Parking System for Smart Cities
+**Demo Video Link:** https://drive.google.com/file/d/1_7OHOpQMc7BjpiqinGR_nRtgg-pLG_4D/view?usp=sharing
 
 ---
 
