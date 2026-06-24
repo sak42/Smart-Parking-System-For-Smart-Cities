@@ -167,7 +167,8 @@ The Smart Parking System helps reduce traffic congestion, minimizes the time spe
 
 ## 👨‍💻 Author
 
-### Mansi Patil
+### sakshi ugare
+
 
 **GitHub Repository Link:** 
 
