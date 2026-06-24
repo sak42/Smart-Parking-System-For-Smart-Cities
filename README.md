@@ -169,9 +169,9 @@ The Smart Parking System helps reduce traffic congestion, minimizes the time spe
 
 ### Mansi Patil
 
-**GitHub Repository Link:** https://github.com/Mansi04-cloud/Smart-Parking-System-For-Smart-Cities
+**GitHub Repository Link:** 
 
-**Demo Video Link:** https://drive.google.com/file/d/1_7OHOpQMc7BjpiqinGR_nRtgg-pLG_4D/view?usp=sharing
+**Demo Video Link:** 
 
 ---
 
